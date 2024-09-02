@@ -23,7 +23,7 @@ conforme diagrama de objetos que segue:**
 
 ### Instância dos dados para seeding:
 
-**Arquivo: [import.sql](https://github.com/joosecj/SpringBoot-FDM/blob/main/DesafioDois/src/main/resources/import.sql)**
+**Arquivo: [import.sql](https://github.com/wellingtonrsdev/FDM-backend/blob/main/DesafioDois/src/main/resources/import.sql)**
 
 ##
 
